@@ -11,8 +11,7 @@ function Navbar() {
             <p> FOOD & BEVERAGE SUPPLIES </p>
             <p> CUSTOM CLEARANCE </p>
             <p> LOGISTICS </p>
-            <p> HR CONSULTANCY </p>
-            
+            <p> HR CONSULTANCY </p> 
         </div>
     );
 }
