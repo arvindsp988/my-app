@@ -1,0 +1,21 @@
+.csslogo {
+    height: 15%;
+    width: 15%;
+    
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.Header {
+    display: flex;
+    justify-content: space-between;
+}
+.social_icons{
+    display: flex;
+    margin-left: 89.8%;
+    margin-top: -38px;
+    
+}
+.flag{
+    height: 5%;
+    width: 5%;
+}
